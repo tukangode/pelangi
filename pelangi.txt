@@ -6,3 +6,4 @@ by artis
 
 
 Ini commit pertama
+Ini commit kedua
